@@ -1,14 +1,15 @@
 <template>
   <Layout>
-    <hero-slider />
+    <!-- <hero-slider /> -->
+    <h1>This is my home page</h1>
   </Layout>
 </template>
 
 <script>
-import HeroSlider from '~/components/HeroSlider.vue'
+// import HeroSlider from '~/components/HeroSlider.vue'
 export default {
   components: {
-    HeroSlider
+    // HeroSlider
   },
   metaInfo: {
     title: 'Hello, world!'

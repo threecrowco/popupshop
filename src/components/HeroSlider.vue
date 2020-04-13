@@ -16,7 +16,6 @@
 </template>
 
 <script>
-import "vue-agile/dist/VueAgile.css"
 export default {
     name: 'HeroSlider'
 }
