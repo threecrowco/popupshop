@@ -20,7 +20,6 @@ export default {
     name: 'HeroSlider'
 }
 </script>
-
-<style src="//unpkg.com/vue-agile/dist/VueAgile.css">
-
+<style>
+@import "https://unpkg.com/vue-agile/dist/VueAgile.css";
 </style>
