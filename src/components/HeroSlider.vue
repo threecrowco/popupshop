@@ -16,10 +16,8 @@
 </template>
 
 <script>
+import "vue-agile/dist/VueAgile.css"
 export default {
     name: 'HeroSlider'
 }
 </script>
-<style>
-@import "https://unpkg.com/vue-agile/dist/VueAgile.css";
-</style>
