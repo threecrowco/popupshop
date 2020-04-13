@@ -21,6 +21,6 @@ export default {
 }
 </script>
 
-<style>
+<style src="//unpkg.com/vue-agile/dist/VueAgile.css">
 
 </style>
